@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BDapp 2.0</string>
+    <string name="enter">Enter</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="login_here">Login here</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email_id">Email Id</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login_into_account">Login Into Account</string>
+    <string name="login">LOGIN</string>
+    <string name="register_here">Register Here</string>
+    <string name="hack">HACK</string>
+    <string name="welcome_connect_to_bd_user">Welcome! Connect to BD user</string>
+    <string name="listen">LISTEN</string>
+    <string name="list_device">LIST DEVICE</string>
+    <string name="status">STATUS</string>
+    <string name="message">MESSAGE</string>
+    <string name="send">SEND</string>
+    <string name="enter_message_here">ENTER MESSAGE HERE</string>
+</resources>
